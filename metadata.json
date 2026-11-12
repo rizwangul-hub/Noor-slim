@@ -1,0 +1,6 @@
+{
+  "name": "Noor Saleem Official",
+  "description": "Lucky draw and promotional platform based in Pakistan, featuring prizes, active draws, winner history, and an interactive admin dashboard demo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
